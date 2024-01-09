@@ -177,4 +177,4 @@ If you have any questions, encounter issues, or wish to collaborate, don't hesit
 
 We thank the authors of [BASS: Boosting Abstractive Summarization with Unified Semantic Graph](https://aclanthology.org/2021.acl-long.472) (Wu et al., ACL-IJCNLP 2021) for their permission to release their Java source code. 
 
-Funding for this work was provided by the German State Ministry of Culture and Science NRW, for research under the Cancer Research Center Cologne Essen (CCCE) foundation. The funding was not provided specifically for this project.
+This work was partly funded by the German State Ministry of Culture and Science NRW for research under the Cancer Research Center Cologne Essen (CCCE) foundation. The funding was not provided specifically for this project.
